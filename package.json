@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "a simple node, mongo and socket.io chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Markos",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.3",
+    "socket.io": "^2.2.0"
+  }
+}
